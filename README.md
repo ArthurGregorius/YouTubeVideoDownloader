@@ -26,7 +26,7 @@ git clone https://github.com/yourusername/YouTubePlaylistDownloader.git
 Install the required libraries using `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip install yt-dlp
 ```
 
 ### Step 3: Run the Program
