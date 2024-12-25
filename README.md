@@ -13,6 +13,19 @@ This Python-based tool allows users to download entire YouTube playlists with a 
 
 ---
 
+## 🌐 **Demo**
+You can explore the repository and check out the code by visiting the following link:  
+[**YouTube Playlist Downloader on GitHub**](https://github.com/yourusername/YouTubePlaylistDownloader)
+
+---
+
+## 🛠 **Technologies Used**
+- **Python** 3.x
+- **yt-dlp** library (a more powerful fork of youtube-dl)
+- **OS** library for handling folder and file management
+
+---
+
 ## 📦 **How to Use**
 
 ### Step 1: Clone this repository
