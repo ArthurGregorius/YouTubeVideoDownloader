@@ -31,7 +31,7 @@ This Python-based tool allows users to download entire YouTube playlists with a 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/YouTubePlaylistDownloader.git
+git clone https://github.com/ArthurGregorius/YouTubeVideoDownloader.git
 ```
 
 ### Step 2: Install Required Libraries
