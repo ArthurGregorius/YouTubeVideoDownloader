@@ -14,7 +14,7 @@ This Python-based tool allows users to download entire YouTube playlists with a 
 ---
 
 ## 🌐 **Demo**
-[**YouTube Playlist Downloader**](https://youtu.be/5sBkwenJgro)
+[**YouTubePlaylistDownloader Demo**](https://youtu.be/5sBkwenJgro)
 
 ---
 
